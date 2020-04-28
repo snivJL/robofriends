@@ -40,7 +40,7 @@ class App extends Component {
 					</ErrorBoundary>
 				</Scroll>
 			</div>
-		;
+		
 	}
 }
 export default App;
