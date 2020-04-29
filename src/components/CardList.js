@@ -14,10 +14,10 @@ const CardList = ({robots}) => {
 						email={robots[i].email}
 					/>
 
-					);
+					)
 				})
 			}
 		</div>
-	);
+	)
 }
 export default CardList;
